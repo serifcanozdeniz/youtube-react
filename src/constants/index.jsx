@@ -14,7 +14,7 @@ import { FiSettings, FiHelpCircle } from "react-icons/fi";
 export const categories = [
   { name: "Ana Sayfa", icon: <AiFillHome />, type: "home" },
   {
-    name: "Trend",
+    name: "Trendler",
     icon: <MdLocalFireDepartment />,
     type: "trending",
   },
